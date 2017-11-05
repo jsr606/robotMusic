@@ -1,0 +1,12 @@
+// uarm swift pro gCode cheatsheet
+
+// set acceleration
+// sendData(0, "M204 P300 T300\n");
+// sendData(0, "M204 T"+int(accelleration)+"\n");
+// check if uarm is moving
+// sendData(0, "#2 M2200\n");
+// set reference position
+// sendData(0, "M2401\n");
+// sendData(0, "#3 M2120 V0.2\n");
+// set rotation of servo
+// G2202 N3 V90\n
