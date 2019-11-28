@@ -1,9 +1,8 @@
-# robotMusic
-processing code for controlling the uarm swift pro over serial port
-by jacob remin and goto80, 2017
+# robot music
+processing code for controlling the [uarm swift pro](https://www.ufactory.cc/#/en/uarmswift) with g-code over serial
 
-code needs [processing](www.processing.org) and [controlp5](http://www.sojamo.de/libraries/controlP5/) for processing to run
+by [jacob remin](http://www.jacobremin.com/robotmusic/) and [goto80](https://www.goto80.com/robotmusic)
 
-first installation for illutron / cph loves chipwrecked is in processing/illutronInstallation
+this is an ongoing project. this repository is mainly for collecting our code and keeping an archive. things are messy.
 
-algorave / algomech 2017 code is in processing/robotMusicAlgomech
+latest version of the code is in processing/EMS ACID =)
